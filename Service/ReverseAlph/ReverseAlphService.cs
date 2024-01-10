@@ -11,7 +11,7 @@ namespace FiveToSeven.Service.ReverseAlph
         {
             string inputList = "";
 
-            for(int i = input.Length-1; i > 0; i--)
+            for(int i = input.Length-1; i >= 0; i--)
             {
                 inputList += input[i];
             }

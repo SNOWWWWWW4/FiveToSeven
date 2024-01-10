@@ -16,7 +16,7 @@ namespace FiveToSeven.Service.ReverseNum
             {
                 string numList = "";
 
-                for(int i = number.Length-1; i > 0; i--)
+                for(int i = number.Length-1; i >= 0; i--)
                 {
                     numList += number[i];
                 }
