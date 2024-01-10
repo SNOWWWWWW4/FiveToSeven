@@ -4,7 +4,7 @@ Liam Garcia
 
 Title: FiveToSeven
 
-Description:
+Description: Created an Api with four endpoints. The first end point is a MadLib, the second is "Odd or Even", and the last two reverses the user's input
 
 Peer Reviewed by: Aidan Younathan
 
