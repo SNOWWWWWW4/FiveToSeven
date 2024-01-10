@@ -7,6 +7,6 @@ namespace FiveToSeven.Service.ReverseNum
 {
     public interface IReverseNumService
     {
-        
+        string AddInput(string number);
     }
 }

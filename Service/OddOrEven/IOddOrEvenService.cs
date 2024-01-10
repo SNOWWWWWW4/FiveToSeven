@@ -7,6 +7,6 @@ namespace FiveToSeven.Service.OddOrEven
 {
     public interface IOddOrEvenService
     {
-        
+        string AddInputs(string num1);
     }
 }
